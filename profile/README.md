@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/311522158?v=4" alt="Logo de GDG Caracas" width="120">
+<img src="./assets/gdg-caracas-logo-animation.gif" alt="Logo animado de GDG Caracas" width="180">
 
 # Google Developer Group Caracas
 
