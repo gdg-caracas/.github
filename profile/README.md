@@ -9,6 +9,7 @@
 Comunidad abierta de desarrolladores, estudiantes, investigadores, emprendedores y profesionales de la tecnología en Caracas, Venezuela.
 
 [![Ser miembro / eventos](https://img.shields.io/badge/Ser_miembro_%2F_eventos-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
+[![Discussions](https://img.shields.io/badge/Participar_en_Discussions-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/discussions)
 [![Participa](https://img.shields.io/badge/Participa-EA4335?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header)
 [![YouTube](https://img.shields.io/badge/Ver_videos-FBBC04?style=for-the-badge&logo=youtube&logoColor=202124)](https://www.youtube.com/@gdgccsve/)
 [![Repositorios](https://img.shields.io/badge/Explorar_repositorios-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/repositories)
@@ -46,11 +47,13 @@ Buscamos acercar oportunidades de aprendizaje de alcance internacional, fomentar
 
 | 🎤 Comparte | ▶️ Aprende | 💬 Conversa | 📚 Construye |
 |---|---|---|---|
-| Propón una charla, taller, panel o codelab. [Completa el formulario para participar en GDG Caracas](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header). | Consulta las [grabaciones de nuestros eventos](https://www.youtube.com/@gdgccsve/). | Participa en nuestras conversaciones. **Discussions próximamente.** | Explora recursos, ejemplos y proyectos Open Source de la comunidad. |
+| Propón una charla, taller, panel o codelab. [Completa el formulario para participar en GDG Caracas](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header). | Consulta las [grabaciones de nuestros eventos](https://www.youtube.com/@gdgccsve/). | Participa en el [foro oficial de GDG Caracas](https://github.com/orgs/gdg-caracas/discussions). | Explora las [presentaciones, codelabs, demostraciones y recursos educativos](https://github.com/gdg-caracas/resources) de la comunidad. |
 
 ## Proyectos y recursos Open Source
 
-Este espacio reunirá progresivamente:
+Consulta el repositorio oficial [**gdg-caracas/resources**](https://github.com/gdg-caracas/resources), donde publicaremos progresivamente los materiales autorizados de nuestras actividades.
+
+Este espacio reunirá:
 
 - Codelabs y materiales utilizados en nuestros eventos.
 - Demostraciones técnicas y proyectos de **Build with AI**.
@@ -59,7 +62,7 @@ Este espacio reunirá progresivamente:
 - Sitios y herramientas creados para DevFest y otros eventos.
 - Proyectos colaborativos desarrollados por la comunidad.
 
-> Los nuevos repositorios aparecerán en esta organización a medida que sean publicados.
+> Los nuevos recursos se incorporarán a medida que sus autores autoricen la publicación y se completen sus metadatos.
 
 ## Formas de contribuir
 
