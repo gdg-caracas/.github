@@ -9,7 +9,7 @@
 Comunidad abierta de desarrolladores, estudiantes, investigadores, emprendedores y profesionales de la tecnología en Caracas, Venezuela.
 
 [![Únete a la comunidad](https://img.shields.io/badge/Únete_a_la_comunidad-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
-[![Próximos eventos](https://img.shields.io/badge/Próximos_eventos-EA4335?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
+[![Próximos eventos](https://img.shields.io/badge/Próximos_eventos-EA4335?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://gdg.community.dev/gdg-caracas/#upcoming-events)
 [![YouTube](https://img.shields.io/badge/Ver_videos-FBBC04?style=for-the-badge&logo=youtube&logoColor=202124)](https://www.youtube.com/@gdgccsve/)
 [![Repositorios](https://img.shields.io/badge/Explorar_repositorios-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/repositories)
 
