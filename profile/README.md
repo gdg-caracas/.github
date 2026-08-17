@@ -9,7 +9,7 @@
 Comunidad abierta de desarrolladores, estudiantes, investigadores, emprendedores y profesionales de la tecnología en Caracas, Venezuela.
 
 [![Únete a la comunidad](https://img.shields.io/badge/Únete_a_la_comunidad-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
-[![Próximos eventos](https://img.shields.io/badge/Próximos_eventos-EA4335?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://gdg.community.dev/gdg-caracas/#upcoming-events)
+[![Próximos eventos](https://img.shields.io/badge/Próximos_eventos-EA4335?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
 [![YouTube](https://img.shields.io/badge/Ver_videos-FBBC04?style=for-the-badge&logo=youtube&logoColor=202124)](https://www.youtube.com/@gdgccsve/)
 [![Repositorios](https://img.shields.io/badge/Explorar_repositorios-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/repositories)
 
@@ -46,7 +46,7 @@ Buscamos acercar oportunidades de aprendizaje de alcance internacional, fomentar
 
 | 🎤 Comparte | ▶️ Aprende | 💬 Conversa | 📚 Construye |
 |---|---|---|---|
-| Propón una charla, taller, panel o codelab. **CFP próximamente.** | Consulta las [grabaciones de nuestros eventos](https://www.youtube.com/@gdgccsve/). | Participa en nuestras conversaciones. **Discussions próximamente.** | Explora recursos, ejemplos y proyectos Open Source de la comunidad. |
+| Propón una charla, taller, panel o codelab. [Completa el formulario para participar en GDG Caracas](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header). | Consulta las [grabaciones de nuestros eventos](https://www.youtube.com/@gdgccsve/). | Participa en nuestras conversaciones. **Discussions próximamente.** | Explora recursos, ejemplos y proyectos Open Source de la comunidad. |
 
 ## Proyectos y recursos Open Source
 
