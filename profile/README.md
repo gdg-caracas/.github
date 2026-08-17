@@ -9,8 +9,8 @@
 Comunidad abierta de desarrolladores, estudiantes, investigadores, emprendedores y profesionales de la tecnología en Caracas, Venezuela.
 
 [![Ser miembro / eventos](https://img.shields.io/badge/Ser_miembro_%2F_eventos-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-caracas/)
-[![Discussions](https://img.shields.io/badge/Participar_en_Discussions-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/discussions)
-[![Participa](https://img.shields.io/badge/Participa-EA4335?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header)
+[![Foro / Discussions](https://img.shields.io/badge/Foro_%2F_Discussions-8250DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/discussions)
+[![Proponer actividad](https://img.shields.io/badge/Proponer_actividad-EA4335?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeXzVXmdXwpjDpw_8ssFZYNFus1eAF9WeonaAnqvcQz4olUCQ/viewform?usp=header)
 [![YouTube](https://img.shields.io/badge/Ver_videos-FBBC04?style=for-the-badge&logo=youtube&logoColor=202124)](https://www.youtube.com/@gdgccsve/)
 [![Repositorios](https://img.shields.io/badge/Explorar_repositorios-34A853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/gdg-caracas/repositories)
 
